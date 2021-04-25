@@ -1,0 +1,25 @@
+{
+  "name": "com.wtfgames.hephaestus.mobilesocial",
+  "version": "0.0.2",
+  "displayName": "Hephaestus Mobile Social",
+  "description": "Hephaestus Mobile Social is a part of the Hephaestus Core framework that helps operate with mobile social features as Game Center.",
+  "unity": "2019.2",
+  "keywords": [
+    "unity",
+    "mobile",
+    "framework",
+    "social"
+  ],
+  "author": {
+    "name": "WTFGames",
+    "email": "serhii.chechui@gmail.com",
+    "url": "https://github.com/serhii-chechui"
+  },
+  "dependencies": {
+    "com.wtfgames.hephaestus.core": ">=0.0.1"
+  }
+}
+        
+        
+        
+        
