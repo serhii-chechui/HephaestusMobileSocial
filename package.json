@@ -19,6 +19,8 @@
     "com.wtfgames.hephaestus.core": "^1.0.0"
   },
   "publishConfig": {
-    "registry": "http://18.197.210.148:4873/"
+    "registry": "http://18.195.169.73:4873/"
   }
 }
+
+        
