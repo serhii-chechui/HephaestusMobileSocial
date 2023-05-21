@@ -10,7 +10,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobileSocial.Runtime {
+namespace HephaestusMobile.MobileSocial {
     public class SocialAchievementsProvider : ISocialAchievementsProvider {
         
         public void ShowAchievementsUI() {

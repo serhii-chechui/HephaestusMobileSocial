@@ -9,7 +9,7 @@ using System;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobileSocial.Runtime {
+namespace HephaestusMobile.MobileSocial {
     public class GameCenterSocialProvider : MonoBehaviour, IMobileSocialProvider {
         
         public ISocialPlatform Active { get; private set; }

@@ -1,5 +1,6 @@
 {
-    "name": "Unity.HephaestusMobileSocial",
+    "name": "com.wtfgames.hephaestus.mobilesocial",
+    "rootNamespace": "HephaestusMobile.MobileSocial",
     "references": [],
     "includePlatforms": [
         "Android",

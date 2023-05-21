@@ -8,7 +8,7 @@
 using System;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobileSocial.Runtime {
+namespace HephaestusMobile.MobileSocial {
     public interface ISocialLeaderboardsProvider {
         void         ShowLeaderboardUI();
         ILeaderboard CreateLeaderboard(string leaderboardId);
