@@ -10,7 +10,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobile.MobileSocial {
+namespace WTFGames.Hephaestus.MobileSocial {
     public class SocialAchievementsProvider : ISocialAchievementsProvider {
         
         public void ShowAchievementsUI() {

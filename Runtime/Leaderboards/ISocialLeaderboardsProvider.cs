@@ -8,7 +8,7 @@
 using System;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobile.MobileSocial {
+namespace WTFGames.Hephaestus.MobileSocial {
     public interface ISocialLeaderboardsProvider {
         void         ShowLeaderboardUI();
         ILeaderboard CreateLeaderboard(string leaderboardId);

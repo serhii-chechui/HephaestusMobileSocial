@@ -10,7 +10,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobile.MobileSocial {
+namespace WTFGames.Hephaestus.MobileSocial {
     public class SocialLeaderboardsProvider : ISocialLeaderboardsProvider {
         public void ShowLeaderboardUI() {
             Social.ShowLeaderboardUI();

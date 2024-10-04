@@ -8,7 +8,7 @@
 using System;
 using UnityEngine.SocialPlatforms;
 
-namespace HephaestusMobile.MobileSocial {
+namespace WTFGames.Hephaestus.MobileSocial {
     public interface ISocialAchievementsProvider {
         void         ShowAchievementsUI();
         IAchievement CreateAchievement(string achievementID, double percentCompleted, Action<bool> result);

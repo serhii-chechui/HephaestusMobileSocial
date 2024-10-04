@@ -15,10 +15,9 @@
     "email": "serhii.chechui@gmail.com",
     "url": "https://github.com/serhii-chechui"
   },
-  "dependencies": {
-    "com.wtfgames.hephaestus.core": "^1.0.0"
-  },
   "publishConfig": {
-    "registry": "http://18.195.169.73:4873/"
+    "registry": "http://upm.wtfgames.com.ua/"
   }
 }
+
+        
