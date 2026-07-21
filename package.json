@@ -1,14 +1,16 @@
 {
   "name": "com.wtfgames.hephaestus.mobilesocial",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "displayName": "Hephaestus Mobile Social",
-  "description": "Hephaestus Mobile Social is a part of the Hephaestus Core framework that helps operate with mobile social features as Game Center.",
-  "unity": "2019.2",
+  "description": "Hephaestus Mobile Social is a part of the Hephaestus Core framework. It defines a platform agnostic abstraction for mobile social features (sign in, leaderboards, achievements) that backends such as Game Center or Google Play Games implement.",
+  "unity": "2021.3",
   "keywords": [
     "unity",
     "mobile",
     "framework",
-    "social"
+    "social",
+    "leaderboards",
+    "achievements"
   ],
   "author": {
     "name": "WTFGames",

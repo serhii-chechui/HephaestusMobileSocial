@@ -1,14 +1,8 @@
 {
     "name": "com.wtfgames.hephaestus.mobilesocial",
-    "rootNamespace": "WTFGames.Hephaestus.MobileSocial",
-    "references": [
-        "Zenject"
-    ],
-    "includePlatforms": [
-        "Android",
-        "Editor",
-        "iOS"
-    ],
+    "rootNamespace": "WTFGames.Hephaestus.MobileSocialSystem",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
@@ -16,5 +10,5 @@
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
-    "noEngineReferences": false
+    "noEngineReferences": true
 }
